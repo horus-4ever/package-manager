@@ -252,5 +252,4 @@ class PackageManager:
 
 if __name__ == "__main__":
     p = PackageManager()
-    p.create("/home/theophile/Documents/Python/projet/PackageManager/Example")
     p.install("temp.maj", "FAKE")
